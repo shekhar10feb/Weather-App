@@ -1,5 +1,3 @@
-    // const API_KEY = `9269b18c517996fafc4e88b06f94ae15`;
-
     const key = config.SECRET_API_KEY;
 
     const form = document.querySelector("form");
